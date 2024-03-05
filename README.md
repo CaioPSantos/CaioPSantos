@@ -8,7 +8,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;🖥 Graduate in course of <b>Analysis and Systems Development</b> 🎓
 </p>
 <p align="center">
- &nbsp; &nbsp;&nbsp;&nbsp;🤘  Life is about <b>moments.</b> &nbsp; 🛠 Focused in <b>Java</b>, <b>HTML</b> and <b>JavaScript</b>
+ &nbsp; &nbsp;&nbsp;&nbsp;🤘  life is constant  <b>challenges and learning.</b> &nbsp; 🛠 Focused in <b>Java</b>, <b>HTML</b> and <b>JavaScript</b>
 </p>
 
 <p align="center">   
