@@ -2,7 +2,7 @@
   Hi there, my name is Caio Pereira.
 </h4>
 <p align="center">
-  🌍 Living in <b>São Paulo</b>, <b>Brazil.</b> &nbsp; 👨‍💻 Currently a Systems Analysis and Development student, studying to become a software developer. 
+  🌍 Living in <b>Cachoeira de Minas, MG</b>, <b>Brazil.</b> &nbsp; 👨‍💻 Currently a Systems Analysis and Development student, studying to become a software developer. 
 </p>
 <p align="center"> 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;🖥 Studying a postgraduate degree in <b> Full-stack development </b> 🎓
