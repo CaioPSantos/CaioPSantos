@@ -60,8 +60,8 @@ Here some techologies that I work or study about:
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 
-## Github Status ⚡😎
 
+## Github Status ⚡😎
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CaioPSantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioPSantos&layout=compact&langs_count=16&theme=dracula"/>
