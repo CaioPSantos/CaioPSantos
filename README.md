@@ -5,7 +5,7 @@
   🌍 Living in <b>São Paulo</b>, <b>Brazil.</b> &nbsp; 👨‍💻 Currently a Systems Analysis and Development student, studying to become a software developer. 
 </p>
 <p align="center"> 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;🖥 Graduate in course of <b>Analysis and Systems Development</b> 🎓
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;🖥 Studying a postgraduate degree in <b> Full-stack development </b> 🎓
 </p>
 <p align="center">
  &nbsp; &nbsp;&nbsp;&nbsp;🤘  life is constant  <b>challenges and learning.</b> &nbsp; 🛠 Focused in <b>Java</b>, <b>HTML</b> and <b>JavaScript</b>
